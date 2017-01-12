@@ -1,0 +1,20 @@
+{
+    "autofocus": false,
+    "forceSync": true,
+    "indentWithTabs": true,
+    "insertTexts": {
+        "image": [
+            "![",
+            "](#url#)"
+        ]
+    },
+    "lineWrapping": true,
+    "promptURLs": true,
+    "renderingConfig": {
+        "singleLineBreaks": false,
+        "codeSyntaxHighlighting": true
+    },
+    "spellChecker": false,
+    "styleSelectedText": false,
+    "tabSize": 4
+}
