@@ -4,6 +4,7 @@ A module that integrates [SimpleMDE](https://simplemde.com/) Markdown editor to 
 
 ## Features
 + Very simple and elegant design
++ [Shortcuts](https://github.com/NextStepWebs/simplemde-markdown-editor#keyboard-shortcuts)!
 + Displays raw markdown markup or rendered output.
 + Uses [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/) for its internal rendering.
 + Ability to use `monospaced` font, syntax highlighting or custom configuration for the editor.
