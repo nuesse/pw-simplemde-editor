@@ -1,6 +1,6 @@
 <?php namespace ProcessWire;
 
-class InputfieldSimpleMDE extends InputfieldTextarea
+class InputfieldSimpleMarkdownEditor extends InputfieldTextarea
 {
     private $baseUrl = '';
     private $basePath = '';
@@ -8,11 +8,11 @@ class InputfieldSimpleMDE extends InputfieldTextarea
     public static function getModuleInfo()
     {
         return array(
-            'title' => 'SimpleMDE Markdown Editor',
+            'title' => 'Simple Markdown Editor',
             'version' => '1.0.0',
             'author' => 'abdus',
             'summary' => 'Simple Markdown text editor.',
-            'href' => 'https://abdus.co',
+            'href' => 'https://github.com/abdusco/pw-simplemde-editor',
             'autoload' => true, // set to true if module should auto-load at boot
             'singular' => false,
             'requires' => array(

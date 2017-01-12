@@ -1,6 +1,6 @@
 <?php namespace ProcessWire;
 
-class InputfieldSimpleMDEConfig extends ModuleConfig
+class InputfieldSimpleMarkdownEditorConfig extends ModuleConfig
 {
 
     public function getDefaults()
