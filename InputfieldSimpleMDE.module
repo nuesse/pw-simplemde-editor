@@ -47,11 +47,6 @@ class InputfieldSimpleMDE extends InputfieldTextarea
     }
 
 
-    public function ___getConfigInputfields()
-    {
-        return parent::getConfigInputfields();
-    }
-
     public function init()
     {
         $this->baseUrl = $this->config->urls->get($this->className);
